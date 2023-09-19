@@ -1,0 +1,1 @@
+export const BaseUrl = "https://hero.jiangnan666.top";
